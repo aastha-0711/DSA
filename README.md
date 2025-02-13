@@ -17,6 +17,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aastha-0711/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/aastha-0711/DSA/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aastha-0711/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
@@ -48,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aastha-0711/DSA/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aastha-0711/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aastha-0711/DSA/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/aastha-0711/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
