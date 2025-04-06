@@ -13,10 +13,12 @@
 | [0042-trapping-rain-water](https://github.com/aastha-0711/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/aastha-0711/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aastha-0711/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/aastha-0711/DSA/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aastha-0711/DSA/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/aastha-0711/DSA/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -35,6 +37,7 @@
 | [0058-length-of-last-word](https://github.com/aastha-0711/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/aastha-0711/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aastha-0711/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/aastha-0711/DSA/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
