@@ -26,6 +26,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aastha-0711/DSA/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/aastha-0711/DSA/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/aastha-0711/DSA/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0007-reverse-integer](https://github.com/aastha-0711/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aastha-0711/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/aastha-0711/DSA/tree/master/0012-integer-to-roman) |
+| [1013-fibonacci-number](https://github.com/aastha-0711/DSA/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,4 +86,12 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aastha-0711/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/aastha-0711/DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/aastha-0711/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
