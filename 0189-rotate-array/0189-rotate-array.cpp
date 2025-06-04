@@ -2,13 +2,15 @@ class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
         int n = nums.size();
-        k = k % n; 
-        vector<int> nums2(n);  
+        k = k % n;
+        vector<int> rotated(n);
+
         for (int i = 0; i < n; i++) {
-            nums2[(i + k) % n] = nums[i];  // Correct indexing for rotation
+            rotated[(i + k) % n] = nums[i];
         }
 
-        // Copy rotated elements back to original array
-        nums = nums2;
+        for (int i = 0; i < n; i++) {
+            nums[i] = rotated[i];
+        }        
     }
 };
