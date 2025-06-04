@@ -15,6 +15,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/aastha-0711/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aastha-0711/DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/aastha-0711/DSA/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aastha-0711/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
