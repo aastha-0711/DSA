@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aastha-0711/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aastha-0711/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aastha-0711/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aastha-0711/DSA/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aastha-0711/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/aastha-0711/DSA/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -73,17 +75,20 @@
 | [0009-palindrome-number](https://github.com/aastha-0711/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/aastha-0711/DSA/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/aastha-0711/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/aastha-0711/DSA/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aastha-0711/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aastha-0711/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aastha-0711/DSA/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -108,4 +113,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/aastha-0711/DSA/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
