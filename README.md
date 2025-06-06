@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/aastha-0711/DSA/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/aastha-0711/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aastha-0711/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/aastha-0711/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aastha-0711/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aastha-0711/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/aastha-0711/DSA/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/aastha-0711/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aastha-0711/DSA/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/aastha-0711/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
@@ -120,4 +123,12 @@
 | ------- |
 | [0136-single-number](https://github.com/aastha-0711/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aastha-0711/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aastha-0711/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
