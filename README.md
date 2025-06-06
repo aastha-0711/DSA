@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aastha-0711/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/aastha-0711/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aastha-0711/DSA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/aastha-0711/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/aastha-0711/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aastha-0711/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aastha-0711/DSA/tree/master/0169-majority-element) |
@@ -28,6 +29,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aastha-0711/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aastha-0711/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/aastha-0711/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/aastha-0711/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aastha-0711/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aastha-0711/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aastha-0711/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aastha-0711/DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/aastha-0711/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aastha-0711/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
