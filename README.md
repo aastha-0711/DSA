@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/aastha-0711/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aastha-0711/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/aastha-0711/DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/aastha-0711/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aastha-0711/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aastha-0711/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/aastha-0711/DSA/tree/master/0075-sort-colors) |
@@ -91,6 +92,7 @@
 | [0007-reverse-integer](https://github.com/aastha-0711/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aastha-0711/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/aastha-0711/DSA/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/aastha-0711/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aastha-0711/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/aastha-0711/DSA/tree/master/1013-fibonacci-number) |
@@ -155,5 +157,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aastha-0711/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aastha-0711/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
