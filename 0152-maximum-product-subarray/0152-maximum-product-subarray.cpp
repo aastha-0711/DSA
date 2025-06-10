@@ -1,24 +1,19 @@
-#include <algorithm>
-#include <climits>
-
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        if (nums.empty()) return 0;
-        
-        int producty = nums[0]; 
-        int n = nums.size();
-        
-        for (int i = 0; i < n; i++) {
-            int product = nums[i];
-            producty = max(producty, product);
-            
-            for (int j = i + 1; j < n; j++) {
-                product *= nums[j];
-                producty = max(producty, product);
-            }
+        int prefix=1;
+        int suffix=1;
+        int ans=INT_MIN;
+        int n=nums.size();
+        for(int i=0;i<n;i++){
+            if(prefix==0){prefix=1;}
+
+if(suffix==0){suffix=1;}
+prefix=prefix*nums[i];
+suffix=suffix*nums[n-1-i];
+ans=max(ans,max(prefix,suffix));
+
         }
-        
-        return producty;
+        return ans;
     }
 };
