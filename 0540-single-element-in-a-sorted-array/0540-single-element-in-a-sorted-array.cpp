@@ -1,20 +1,25 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        unordered_map<int, int> mp;
-        
-        // Count the occurrences of each number
-        for (int i = 0; i < nums.size(); i++) {
-            mp[nums[i]]++;
-        }
-        
-        // Find the number that occurs only once
-        for (auto& it : mp) {
-            if (it.second == 1) {
-                return it.first;
-            }
-        }
-        
-        return -1; // In case no element is found (though input guarantees a single element)
+     int end=nums.size()-1;
+     if(nums.size()==1){return nums[0];}
+     if(nums[0]!=nums[1])return nums[0];
+     if(nums[end]!=nums[end-1])return nums[end];
+     int low=1;
+     int high=end-1; 
+      while(low<=high){
+        int mid=low+(high-low)/2;
+if(nums[mid]!=nums[mid-1] && nums[mid]!=nums[mid+1]){
+    return nums[mid];
+}
+if((mid%2==1 && nums[mid]==nums[mid-1]) || (mid%2==0 && nums[mid]==nums[mid+1])){
+    low=mid+1;
+
+}
+else{
+
+    high=mid-1;
+}
+      }return -1;
     }
 };
