@@ -42,6 +42,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/aastha-0711/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/aastha-0711/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/aastha-0711/DSA/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/aastha-0711/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aastha-0711/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aastha-0711/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aastha-0711/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -139,6 +140,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/aastha-0711/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/aastha-0711/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/aastha-0711/DSA/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/aastha-0711/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aastha-0711/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aastha-0711/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
