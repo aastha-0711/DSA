@@ -38,6 +38,7 @@
 | [0229-majority-element-ii](https://github.com/aastha-0711/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aastha-0711/DSA/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/aastha-0711/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/aastha-0711/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aastha-0711/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aastha-0711/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -78,6 +79,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aastha-0711/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aastha-0711/DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/aastha-0711/DSA/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/aastha-0711/DSA/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/aastha-0711/DSA/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
@@ -140,6 +142,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aastha-0711/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aastha-0711/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/aastha-0711/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aastha-0711/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/aastha-0711/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/aastha-0711/DSA/tree/master/0907-koko-eating-bananas) |
@@ -164,6 +167,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aastha-0711/DSA/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/aastha-0711/DSA/tree/master/0410-split-array-largest-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -174,6 +178,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aastha-0711/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/aastha-0711/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aastha-0711/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Recursion
