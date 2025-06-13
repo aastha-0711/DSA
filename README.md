@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aastha-0711/DSA/tree/master/0042-trapping-rain-water) |
+| [1078-remove-outermost-parentheses](https://github.com/aastha-0711/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0125-valid-palindrome](https://github.com/aastha-0711/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aastha-0711/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/aastha-0711/DSA/tree/master/0392-is-subsequence) |
+| [1078-remove-outermost-parentheses](https://github.com/aastha-0711/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Trie
 |  |
 | ------- |
