@@ -103,6 +103,7 @@
 | [0058-length-of-last-word](https://github.com/aastha-0711/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/aastha-0711/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aastha-0711/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/aastha-0711/DSA/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/aastha-0711/DSA/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/aastha-0711/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Trie
@@ -121,6 +122,7 @@
 | [0073-set-matrix-zeroes](https://github.com/aastha-0711/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aastha-0711/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/aastha-0711/DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/aastha-0711/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/aastha-0711/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/aastha-0711/DSA/tree/master/0560-subarray-sum-equals-k) |
