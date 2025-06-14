@@ -1,9 +1,9 @@
 class Solution {
 public:
     int romanToInt(string s) {
-vector<int> nums(s.length());
+vector<int> nums(s.size());
  
-	    for(int i = 0; i < s.length(); i++){
+	    for(int i = 0; i < s.size(); i++){
 	        switch (s[i]) {
 	            case 'M':
 	                nums[i] = 1000;
