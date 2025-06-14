@@ -106,6 +106,7 @@
 | [0205-isomorphic-strings](https://github.com/aastha-0711/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aastha-0711/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/aastha-0711/DSA/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/aastha-0711/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/aastha-0711/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/aastha-0711/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/aastha-0711/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -130,6 +131,7 @@
 | [0229-majority-element-ii](https://github.com/aastha-0711/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aastha-0711/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/aastha-0711/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/aastha-0711/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -179,6 +181,7 @@
 | [0229-majority-element-ii](https://github.com/aastha-0711/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aastha-0711/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/aastha-0711/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -224,6 +227,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/aastha-0711/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aastha-0711/DSA/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/aastha-0711/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -242,4 +246,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aastha-0711/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aastha-0711/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aastha-0711/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
