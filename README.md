@@ -99,6 +99,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/aastha-0711/DSA/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/aastha-0711/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/aastha-0711/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aastha-0711/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aastha-0711/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/aastha-0711/DSA/tree/master/0058-length-of-last-word) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aastha-0711/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/aastha-0711/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/aastha-0711/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/aastha-0711/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aastha-0711/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/aastha-0711/DSA/tree/master/0169-majority-element) |
@@ -141,6 +143,7 @@
 | [0007-reverse-integer](https://github.com/aastha-0711/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aastha-0711/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/aastha-0711/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/aastha-0711/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aastha-0711/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aastha-0711/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
