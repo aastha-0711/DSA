@@ -75,6 +75,7 @@
 | [0283-move-zeroes](https://github.com/aastha-0711/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/aastha-0711/DSA/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/aastha-0711/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aastha-0711/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aastha-0711/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -276,4 +277,5 @@
 | [0142-linked-list-cycle-ii](https://github.com/aastha-0711/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/aastha-0711/DSA/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/aastha-0711/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aastha-0711/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
