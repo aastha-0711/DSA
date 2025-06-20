@@ -185,6 +185,7 @@
 | [0048-rotate-image](https://github.com/aastha-0711/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aastha-0711/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/aastha-0711/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/aastha-0711/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/aastha-0711/DSA/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/aastha-0711/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -254,6 +255,7 @@
 | [0002-add-two-numbers](https://github.com/aastha-0711/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/aastha-0711/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/aastha-0711/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/aastha-0711/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aastha-0711/DSA/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/aastha-0711/DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/aastha-0711/DSA/tree/master/2050-count-good-numbers) |
@@ -268,6 +270,7 @@
 | [0078-subsets](https://github.com/aastha-0711/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aastha-0711/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aastha-0711/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/aastha-0711/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
