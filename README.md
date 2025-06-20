@@ -15,6 +15,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aastha-0711/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aastha-0711/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aastha-0711/DSA/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/aastha-0711/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aastha-0711/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aastha-0711/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/aastha-0711/DSA/tree/master/0042-trapping-rain-water) |
@@ -154,6 +155,7 @@
 | [0012-integer-to-roman](https://github.com/aastha-0711/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aastha-0711/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aastha-0711/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/aastha-0711/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/aastha-0711/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aastha-0711/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/aastha-0711/DSA/tree/master/0141-linked-list-cycle) |
@@ -284,6 +286,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aastha-0711/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/aastha-0711/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aastha-0711/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aastha-0711/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -327,6 +330,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aastha-0711/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aastha-0711/DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/aastha-0711/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aastha-0711/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aastha-0711/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/aastha-0711/DSA/tree/master/0051-n-queens) |
