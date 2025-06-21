@@ -43,6 +43,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aastha-0711/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aastha-0711/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aastha-0711/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aastha-0711/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/aastha-0711/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/aastha-0711/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/aastha-0711/DSA/tree/master/0229-majority-element-ii) |
@@ -186,6 +187,7 @@
 | [0048-rotate-image](https://github.com/aastha-0711/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aastha-0711/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/aastha-0711/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aastha-0711/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aastha-0711/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/aastha-0711/DSA/tree/master/1013-fibonacci-number) |
@@ -355,4 +357,12 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aastha-0711/DSA/tree/master/0079-word-search) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aastha-0711/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aastha-0711/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
