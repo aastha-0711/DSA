@@ -1,32 +1,29 @@
 class MyStack {
-    vector<int> stack;
+private:
+queue<int> q;
 
 public:
-    MyStack() {
-        // constructor: no initialization needed
-    }
+    MyStack() {}
 
     void push(int x) {
-        stack.push_back(x);
+        q.push(x);
+        for (int i = 0; i < q.size() - 1; i++) {
+            q.push(q.front());
+            q.pop();
+        }
     }
 
     int pop() {
-        if (!stack.empty()) {
-            int topp = stack.back();
-            stack.pop_back();
-            return topp;
-        }
-        return -1;
+        int top = q.front();
+        q.pop();
+        return top;
     }
 
     int top() {
-        if (!stack.empty()) {
-            return stack.back();
-        }
-        return -1;
+        return q.front();
     }
 
     bool empty() {
-        return stack.empty();  // ✅ FIXED
+        return q.empty();
     }
 };
