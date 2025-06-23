@@ -1,41 +1,33 @@
 class MyQueue {
-    vector<int> queue;
+private:
+    stack<int> input;
+    stack<int> output;    
+
 public:
-    MyQueue() {
-        
-    }
-    
+    MyQueue() {}
+
     void push(int x) {
-queue.push_back(x);
+        input.push(x);
     }
-    
+
     int pop() {
-        if(!queue.empty()){
-            int front=queue.front();
-            queue.erase(queue.begin());
-            return front;
-        }return -1;
+        peek();
+        int val = output.top();
+        output.pop();
+        return val;
     }
-    
+
     int peek() {
-        if(queue.empty()){
-            return -1;
+        if (output.empty()) {
+            while (!input.empty()) {
+                output.push(input.top());
+                input.pop();
+            }
         }
-        else{
-            return queue.front();
-        }
+        return output.top();
     }
-    
+
     bool empty() {
-        return queue.empty();
+        return input.empty() && output.empty();
     }
 };
-
-/**
- * Your MyQueue object will be instantiated and called as such:
- * MyQueue* obj = new MyQueue();
- * obj->push(x);
- * int param_2 = obj->pop();
- * int param_3 = obj->peek();
- * bool param_4 = obj->empty();
- */
