@@ -151,6 +151,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aastha-0711/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/aastha-0711/DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/aastha-0711/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/aastha-0711/DSA/tree/master/0012-integer-to-roman) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aastha-0711/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aastha-0711/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/aastha-0711/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aastha-0711/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aastha-0711/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -280,6 +282,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aastha-0711/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/aastha-0711/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/aastha-0711/DSA/tree/master/0239-sliding-window-maximum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
