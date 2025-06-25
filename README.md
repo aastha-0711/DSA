@@ -66,6 +66,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/aastha-0711/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aastha-0711/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aastha-0711/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aastha-0711/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aastha-0711/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aastha-0711/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/aastha-0711/DSA/tree/master/1646-kth-missing-positive-number) |
@@ -215,6 +216,7 @@
 | [0496-next-greater-element-i](https://github.com/aastha-0711/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aastha-0711/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/aastha-0711/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aastha-0711/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aastha-0711/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
@@ -232,6 +234,7 @@
 | [0231-power-of-two](https://github.com/aastha-0711/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/aastha-0711/DSA/tree/master/1013-fibonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aastha-0711/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/aastha-0711/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/aastha-0711/DSA/tree/master/2050-count-good-numbers) |
 ## Binary Search
@@ -291,6 +294,7 @@
 | [0239-sliding-window-maximum](https://github.com/aastha-0711/DSA/tree/master/0239-sliding-window-maximum) |
 | [0966-binary-subarrays-with-sum](https://github.com/aastha-0711/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aastha-0711/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aastha-0711/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -300,6 +304,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/aastha-0711/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/aastha-0711/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aastha-0711/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aastha-0711/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Recursion
 |  |
