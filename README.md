@@ -207,6 +207,7 @@
 | [0242-valid-anagram](https://github.com/aastha-0711/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/aastha-0711/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/aastha-0711/DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/aastha-0711/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aastha-0711/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aastha-0711/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -374,6 +375,7 @@
 | [0206-reverse-linked-list](https://github.com/aastha-0711/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aastha-0711/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aastha-0711/DSA/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/aastha-0711/DSA/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/aastha-0711/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aastha-0711/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
@@ -413,6 +415,7 @@
 | [0155-min-stack](https://github.com/aastha-0711/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aastha-0711/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aastha-0711/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/aastha-0711/DSA/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/aastha-0711/DSA/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -432,4 +435,5 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aastha-0711/DSA/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/aastha-0711/DSA/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
