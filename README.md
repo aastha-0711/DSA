@@ -61,6 +61,7 @@
 | [0503-next-greater-element-ii](https://github.com/aastha-0711/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aastha-0711/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aastha-0711/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/aastha-0711/DSA/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/aastha-0711/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/aastha-0711/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/aastha-0711/DSA/tree/master/0907-koko-eating-bananas) |
@@ -223,6 +224,7 @@
 | [0460-lfu-cache](https://github.com/aastha-0711/DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/aastha-0711/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aastha-0711/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/aastha-0711/DSA/tree/master/0621-task-scheduler) |
 | [0966-binary-subarrays-with-sum](https://github.com/aastha-0711/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aastha-0711/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aastha-0711/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -289,6 +291,7 @@
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aastha-0711/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aastha-0711/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/aastha-0711/DSA/tree/master/0621-task-scheduler) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -296,6 +299,7 @@
 | [0011-container-with-most-water](https://github.com/aastha-0711/DSA/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/aastha-0711/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/aastha-0711/DSA/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/aastha-0711/DSA/tree/master/0621-task-scheduler) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/aastha-0711/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
@@ -366,6 +370,7 @@
 | [0229-majority-element-ii](https://github.com/aastha-0711/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aastha-0711/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aastha-0711/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/aastha-0711/DSA/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aastha-0711/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aastha-0711/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Simulation
@@ -398,6 +403,7 @@
 | [0239-sliding-window-maximum](https://github.com/aastha-0711/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/aastha-0711/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aastha-0711/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/aastha-0711/DSA/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aastha-0711/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
