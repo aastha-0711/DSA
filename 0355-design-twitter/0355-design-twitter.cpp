@@ -44,8 +44,7 @@ public:
 
     void unfollow(int followerId, int followeeId) {
         // Prevent unfollowing self
-        if (followerId != followeeId) {
             follower[followerId].erase(followeeId);
-        }
+        
     }
 };
