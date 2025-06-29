@@ -1,41 +1,28 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-    
-        int minOpen = 0;
-        int maxOpen = 0;
-
-        for(int i=0; i<s.length(); i++){
-            
-            char current =s[i];
-
-            if(current == ')'){
-                minOpen--;
-                maxOpen--;
+        int miny=0;
+        int maxy=0;
+        for(int i=0;i<s.size();i++){
+            if(s[i]=='('){
+                miny=miny+1;
+                maxy+=1;
             }
-
-            if(current == '('){
-                minOpen++;
-                maxOpen++;
+            else if(s[i]==')'){
+                miny-=1;
+                maxy-=1;
             }
-
-       
-            if(current == '*'){
-                minOpen--;
-                maxOpen++;
+            else{
+                maxy+=1;
+                miny-=1;
             }
-
-            if(maxOpen < 0) return false; 
-
-            minOpen = max(0, minOpen);
+            if(miny<0){
+                miny=0;
+            }
+            if(maxy<0){
+                return false;
+            }
         }
-
-        if(minOpen==0)
-        {
-            return true;
-        }
-        else{return false;}
-
+return miny==0?true:false;
     }
-
 };
