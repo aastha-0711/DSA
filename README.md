@@ -248,6 +248,7 @@
 | [0621-task-scheduler](https://github.com/aastha-0711/DSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/aastha-0711/DSA/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/aastha-0711/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aastha-0711/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aastha-0711/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aastha-0711/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aastha-0711/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -318,6 +319,7 @@
 | [0455-assign-cookies](https://github.com/aastha-0711/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/aastha-0711/DSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/aastha-0711/DSA/tree/master/0876-hand-of-straights) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aastha-0711/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -496,6 +498,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aastha-0711/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aastha-0711/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/aastha-0711/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aastha-0711/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -556,6 +559,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/aastha-0711/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/aastha-0711/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aastha-0711/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aastha-0711/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -574,6 +578,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/aastha-0711/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/aastha-0711/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aastha-0711/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aastha-0711/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -581,4 +586,5 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/aastha-0711/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aastha-0711/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aastha-0711/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aastha-0711/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
