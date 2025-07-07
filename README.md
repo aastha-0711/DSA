@@ -92,6 +92,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aastha-0711/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aastha-0711/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/aastha-0711/DSA/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/aastha-0711/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aastha-0711/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/aastha-0711/DSA/tree/master/2047-find-a-peak-element-ii) |
@@ -317,6 +318,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aastha-0711/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aastha-0711/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/aastha-0711/DSA/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/aastha-0711/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/aastha-0711/DSA/tree/master/2047-find-a-peak-element-ii) |
 ## Sorting
@@ -455,6 +457,7 @@
 | [1036-rotting-oranges](https://github.com/aastha-0711/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/aastha-0711/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aastha-0711/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/aastha-0711/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/aastha-0711/DSA/tree/master/2047-find-a-peak-element-ii) |
 ## Union Find
 |  |
@@ -464,6 +467,7 @@
 | [0547-number-of-provinces](https://github.com/aastha-0711/DSA/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/aastha-0711/DSA/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/aastha-0711/DSA/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/aastha-0711/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -476,6 +480,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/aastha-0711/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/aastha-0711/DSA/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aastha-0711/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1753-path-with-minimum-effort](https://github.com/aastha-0711/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -550,6 +555,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aastha-0711/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aastha-0711/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/aastha-0711/DSA/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/aastha-0711/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Enumeration
 |  |
 | ------- |
@@ -701,6 +707,7 @@
 | [1036-rotting-oranges](https://github.com/aastha-0711/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/aastha-0711/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aastha-0711/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/aastha-0711/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Iterator
 |  |
 | ------- |
