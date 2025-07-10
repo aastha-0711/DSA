@@ -52,6 +52,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aastha-0711/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aastha-0711/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aastha-0711/DSA/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/aastha-0711/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/aastha-0711/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/aastha-0711/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aastha-0711/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -147,6 +148,7 @@
 | [0131-palindrome-partitioning](https://github.com/aastha-0711/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/aastha-0711/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aastha-0711/DSA/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/aastha-0711/DSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/aastha-0711/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/aastha-0711/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aastha-0711/DSA/tree/master/0435-non-overlapping-intervals) |
