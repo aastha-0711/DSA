@@ -1,38 +1,28 @@
-
 class Solution {
-public:
-    int robLinear(const vector<int>& nums) {
-        int n = nums.size();
-        if (n == 0) return 0;
-        if (n == 1) return nums[0];
+    int robLinear(vector<int>& nums, int start, int end) {
+        int n = end - start + 1;
+        if (n == 1) return nums[start];
 
-        long long int prev = nums[0];
-        long long int prev2 = 0;
+        vector<int> dp(n, 0);
+        dp[0] = nums[start];
+        dp[1] = max(nums[start], nums[start + 1]);
 
-        for (int i = 1; i < n; i++) {
-            long long int pick = nums[i];
-            if (i > 1) {
-                pick += prev2;
-            }
-            long long int nonPick = prev;
-            long long int cur_i = max(pick, nonPick);
-            prev2 = prev;
-            prev = cur_i;
+        for (int i = 2; i < n; i++) {
+            dp[i] = max(dp[i - 1], nums[start + i] + dp[i - 2]);
         }
-        return prev;
+
+        return dp[n - 1];
     }
 
+public:
     int rob(vector<int>& nums) {
         int n = nums.size();
         if (n == 0) return 0;
         if (n == 1) return nums[0];
-        if (n == 2) return max(nums[0], nums[1]);
 
-        // Exclude the first house and solve
-        vector<int> arr1(nums.begin() + 1, nums.end());
-        // Exclude the last house and solve
-        vector<int> arr2(nums.begin(), nums.end() - 1);
+        int rob1 = robLinear(nums, 0, n - 2); // exclude last
+        int rob2 = robLinear(nums, 1, n - 1); // exclude first
 
-        return max(robLinear(arr1), robLinear(arr2));
+        return max(rob1, rob2);
     }
 };
