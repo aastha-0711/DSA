@@ -72,6 +72,7 @@
 | [0542-01-matrix](https://github.com/aastha-0711/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/aastha-0711/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/aastha-0711/DSA/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/aastha-0711/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/aastha-0711/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/aastha-0711/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/aastha-0711/DSA/tree/master/0792-binary-search) |
@@ -221,6 +222,7 @@
 | [0402-remove-k-digits](https://github.com/aastha-0711/DSA/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/aastha-0711/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/aastha-0711/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/aastha-0711/DSA/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/aastha-0711/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/aastha-0711/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aastha-0711/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -270,6 +272,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/aastha-0711/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/aastha-0711/DSA/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aastha-0711/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/aastha-0711/DSA/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/aastha-0711/DSA/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aastha-0711/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/aastha-0711/DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -345,6 +348,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/aastha-0711/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/aastha-0711/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/aastha-0711/DSA/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/aastha-0711/DSA/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/aastha-0711/DSA/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aastha-0711/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -469,6 +473,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/aastha-0711/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/aastha-0711/DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/aastha-0711/DSA/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/aastha-0711/DSA/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/aastha-0711/DSA/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aastha-0711/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/aastha-0711/DSA/tree/master/1073-number-of-enclaves) |
@@ -557,6 +562,7 @@
 | [0547-number-of-provinces](https://github.com/aastha-0711/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aastha-0711/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aastha-0711/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/aastha-0711/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/aastha-0711/DSA/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/aastha-0711/DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/aastha-0711/DSA/tree/master/0801-is-graph-bipartite) |
@@ -711,6 +717,7 @@
 | [0547-number-of-provinces](https://github.com/aastha-0711/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aastha-0711/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aastha-0711/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/aastha-0711/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/aastha-0711/DSA/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/aastha-0711/DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/aastha-0711/DSA/tree/master/0801-is-graph-bipartite) |
