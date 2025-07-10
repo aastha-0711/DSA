@@ -76,6 +76,7 @@
 | [0733-flood-fill](https://github.com/aastha-0711/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/aastha-0711/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/aastha-0711/DSA/tree/master/0792-binary-search) |
+| [0854-making-a-large-island](https://github.com/aastha-0711/DSA/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/aastha-0711/DSA/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/aastha-0711/DSA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/aastha-0711/DSA/tree/master/0907-koko-eating-bananas) |
@@ -462,6 +463,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/aastha-0711/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/aastha-0711/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aastha-0711/DSA/tree/master/0733-flood-fill) |
+| [0854-making-a-large-island](https://github.com/aastha-0711/DSA/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/aastha-0711/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/aastha-0711/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aastha-0711/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -475,6 +477,7 @@
 | [0547-number-of-provinces](https://github.com/aastha-0711/DSA/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/aastha-0711/DSA/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/aastha-0711/DSA/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/aastha-0711/DSA/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aastha-0711/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/aastha-0711/DSA/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/aastha-0711/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -568,6 +571,7 @@
 | [0801-is-graph-bipartite](https://github.com/aastha-0711/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aastha-0711/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/aastha-0711/DSA/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/aastha-0711/DSA/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aastha-0711/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aastha-0711/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aastha-0711/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -723,6 +727,7 @@
 | [0801-is-graph-bipartite](https://github.com/aastha-0711/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/aastha-0711/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/aastha-0711/DSA/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/aastha-0711/DSA/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aastha-0711/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aastha-0711/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/aastha-0711/DSA/tree/master/1036-rotting-oranges) |
