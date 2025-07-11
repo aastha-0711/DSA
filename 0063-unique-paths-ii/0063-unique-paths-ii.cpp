@@ -3,26 +3,26 @@ public:
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         int m = obstacleGrid.size();
         int n = obstacleGrid[0].size();
-        
-        // Edge case: If start or end cell is an obstacle, return 0
-        if (obstacleGrid[0][0] == 1 || obstacleGrid[m-1][n-1] == 1) return 0;
+        vector<int> aboveRow(n, 0);
 
-        vector<vector<int>> dp(m, vector<int>(n, 0));
-        dp[0][0] = 1;  // Start position
+        // Initialize the first row
+        for (int j = 0; j < n; j++) {
+            if (obstacleGrid[0][j] == 1) break;
+            aboveRow[j] = 1;
+        }
 
-        for (int i = 0; i < m; i++) {
+        for (int i = 1; i < m; i++) {
+            vector<int> currentRow(n, 0);
             for (int j = 0; j < n; j++) {
                 if (obstacleGrid[i][j] == 1) {
-                    dp[i][j] = 0;  // No paths if there's an obstacle
-                } else {
-                    // If cell is not at the top row, add paths from the cell above
-                    if (i > 0) dp[i][j] += dp[i - 1][j];
-                    // If cell is not at the left column, add paths from the left cell
-                    if (j > 0) dp[i][j] += dp[i][j - 1];
+                    currentRow[j] = 0;
+                } else {int fromTop = aboveRow[j];
+                    int fromLeft = (j > 0) ? currentRow[j - 1] : 0;
+                    currentRow[j] = fromTop + fromLeft;
                 }
             }
+            aboveRow = currentRow;
         }
-        
-        return dp[m-1][n-1];  // Number of paths to the bottom-right corner
+return obstacleGrid[m - 1][n - 1] == 1 ? 0 : aboveRow[n - 1];
     }
 };
