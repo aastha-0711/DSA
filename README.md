@@ -141,6 +141,7 @@
 | [0045-jump-game-ii](https://github.com/aastha-0711/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aastha-0711/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aastha-0711/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/aastha-0711/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aastha-0711/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/aastha-0711/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/aastha-0711/DSA/tree/master/0118-pascals-triangle) |
@@ -299,6 +300,7 @@
 | [0029-divide-two-integers](https://github.com/aastha-0711/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/aastha-0711/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aastha-0711/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/aastha-0711/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aastha-0711/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aastha-0711/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aastha-0711/DSA/tree/master/0204-count-primes) |
@@ -774,4 +776,8 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/aastha-0711/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aastha-0711/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/aastha-0711/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aastha-0711/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
