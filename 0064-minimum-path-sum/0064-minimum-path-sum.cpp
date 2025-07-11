@@ -1,31 +1,32 @@
 class Solution {
 public:
     int minPathSum(vector<vector<int>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
-        vector<int> prevRow(n, 0);
+        int m = grid.size();       // number of rows
+        int n = grid[0].size();    // number of columns
 
-        prevRow[0] = grid[0][0];
+        // dp[i][j] will store the min path sum to reach cell (i, j)
+        vector<vector<int>> dp(m, vector<int>(n, 0));
 
-        // Fill the first row
+        dp[0][0] = grid[0][0];  // start cell
+
+        // Fill first row (can only come from left)
         for (int j = 1; j < n; j++) {
-            prevRow[j] = prevRow[j - 1] + grid[0][j];
+            dp[0][j] = dp[0][j - 1] + grid[0][j];
         }
 
-        // Process each row
+        // Fill first column (can only come from top)
         for (int i = 1; i < m; i++) {
-            vector<int> currRow(n, 0);
-            currRow[0] = prevRow[0] + grid[i][0]; // First column
-
-            for (int j = 1; j < n; j++) {  // Fixed here!
-                int fromTop = prevRow[j];
-                int fromLeft = currRow[j - 1];
-                currRow[j] = grid[i][j] + min(fromTop, fromLeft);
-            }
-
-            prevRow = currRow;
+            dp[i][0] = dp[i - 1][0] + grid[i][0];
         }
 
-        return prevRow[n - 1];
+        // Fill the rest of the grid
+        for (int i = 1; i < m; i++) {
+            for (int j = 1; j < n; j++) {
+                dp[i][j] = grid[i][j] + min(dp[i - 1][j], dp[i][j - 1]);
+            }
+        }
+
+        // The answer is at the bottom-right corner
+        return dp[m - 1][n - 1];
     }
 };
