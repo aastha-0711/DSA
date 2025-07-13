@@ -1,21 +1,19 @@
 class Solution {
+    int solve(int i, int amount, vector<int>& coins, vector<vector<int>>& memo) {
+        if (amount == 0) return 1;              // found valid combination
+        if (i == coins.size() || amount < 0) return 0; // out of bounds or too much
+
+        if (memo[i][amount] != -1) return memo[i][amount];
+
+        // Choices:
+        int take = solve(i, amount - coins[i], coins, memo);     // take coin[i]
+        int skip = solve(i + 1, amount, coins, memo);             // skip coin[i]
+
+        return memo[i][amount] = take + skip;}
 public:
-    int change(int amount, vector<int>& coins) {
-        int n=coins.size();
-        vector<vector<unsigned long long>> t(n+1,vector<unsigned long long>(amount+1,0));
-        for(int i=0;i<=n;i++){
-            t[i][0]=1;
-        }
-        for(int i=1;i<=n;i++){
-            for(int j=0;j<=amount;j++){
-                if(coins[i-1]<=j){
-                    t[i][j]=t[i][j-coins[i-1]]+t[i-1][j];
-                }
-                else{
-                    t[i][j]=t[i-1][j];
-                }
-            }
-        }
-        return t[n][amount];
+   int change(int amount, vector<int>& coins) {
+        int n = coins.size();
+        vector<vector<int>> memo(n, vector<int>(amount + 1, -1));
+        return solve(0, amount, coins, memo);
     }
 };
