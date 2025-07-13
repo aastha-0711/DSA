@@ -1,15 +1,17 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-     int min_price=INT_MAX;   
-     int max_profit=0;
-     for(int i=0;i<prices.size();i++){
-        if(prices[i]<min_price){
-            min_price=prices[i];
+        int n = prices.size();
+        if (n == 0) return 0;
+
+        vector<int> dp(n, 0);  // dp[i] = max profit until day i
+        int min_price = prices[0];
+
+        for (int i = 1; i < n; i++) {
+            min_price = min(min_price, prices[i]);  // keep track of min so far
+            dp[i] = max(dp[i - 1], prices[i] - min_price);  // max of not selling or selling today
         }
-        else if(prices[i]-min_price>max_profit){
-            max_profit=prices[i]-min_price;
-        }
-     }return max_profit;
+
+        return dp[n - 1];  // max profit overall
     }
 };
