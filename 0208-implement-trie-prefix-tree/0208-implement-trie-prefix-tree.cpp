@@ -1,60 +1,72 @@
-
-class TrieNode {
+class Node {
 public:
-    unordered_map<char, TrieNode*> children;
-    bool isEndOfWord;
+    Node* links[26];
+    bool flag = false;
 
-    TrieNode() {
-        isEndOfWord = false;
+    // Constructor to initialize all links to nullptr
+    Node() {
+        for(int i = 0; i < 26; i++) links[i] = nullptr;
+    }
+
+    bool containsKey(char ch) {
+        return (links[ch - 'a'] != nullptr);
+    }
+
+    void put(char ch, Node* node) {
+        links[ch - 'a'] = node;
+    }
+
+    Node* get(char ch) {
+        return links[ch - 'a'];
+    }
+
+    void setEnd() {
+        flag = true;
+    }
+
+    bool isEnd() {
+        return flag;
     }
 };
+
 class Trie {
-    private:
-    TrieNode* root;
+private:
+    Node* root;
 public:
-
     Trie() {
-        root = new TrieNode();
+        root = new Node();
     }
-    
+
     void insert(string word) {
-        TrieNode* curr=root;
-        for(char ch:word){
-            if (curr->children.find(ch)==curr->children.end()){
-                curr->children[ch]=new TrieNode();
-
+        Node* node = root;
+        for (int i = 0; i < word.size(); i++) {
+            if (!node->containsKey(word[i])) {
+                node->put(word[i], new Node());
             }
-            curr=curr->children[ch];
+            node = node->get(word[i]);  // Fix: move node forward
         }
-                curr->isEndOfWord = true;
+        node->setEnd();  // Set the last node's end flag to true
+    }
 
-    }
-    
     bool search(string word) {
-       TrieNode* curr = root;
-        for (char ch : word) {
-            if (curr->children.find(ch) == curr->children.end())
+        Node* node = root;
+        for (int i = 0; i < word.size(); i++) {
+            if (!node->containsKey(word[i])) {
                 return false;
-            curr = curr->children[ch];
+            }
+            node = node->get(word[i]);
         }
-        return curr->isEndOfWord;  
+        return node->isEnd();
     }
-    
- bool startsWith(string prefix) {
-        TrieNode* curr = root;
-        for (char ch : prefix) {
-            if (curr->children.find(ch) == curr->children.end())
+
+    bool startsWith(string prefix) {
+        Node* node = root;
+        for (int i = 0; i < prefix.size(); i++) {
+            if (!node->containsKey(prefix[i])) {
                 return false;
-            curr = curr->children[ch];
+            }
+            node = node->get(prefix[i]);
         }
         return true;
     }
 };
-
-/**
- * Your Trie object will be instantiated and called as such:
- * Trie* obj = new Trie();
- * obj->insert(word);
- * bool param_2 = obj->search(word);
- * bool param_3 = obj->startsWith(prefix);
- */
