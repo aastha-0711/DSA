@@ -75,6 +75,7 @@
 | [0368-largest-divisible-subset](https://github.com/aastha-0711/DSA/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/aastha-0711/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/aastha-0711/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aastha-0711/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/aastha-0711/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aastha-0711/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/aastha-0711/DSA/tree/master/0485-max-consecutive-ones) |
@@ -287,6 +288,7 @@
 | [0014-longest-common-prefix](https://github.com/aastha-0711/DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/aastha-0711/DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/aastha-0711/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aastha-0711/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -320,6 +322,7 @@
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aastha-0711/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/aastha-0711/DSA/tree/master/0355-design-twitter) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aastha-0711/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/aastha-0711/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/aastha-0711/DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/aastha-0711/DSA/tree/master/0496-next-greater-element-i) |
@@ -480,6 +483,7 @@
 | [0136-single-number](https://github.com/aastha-0711/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/aastha-0711/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aastha-0711/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aastha-0711/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
