@@ -113,6 +113,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aastha-0711/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/aastha-0711/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/aastha-0711/DSA/tree/master/1753-path-with-minimum-effort) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/aastha-0711/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aastha-0711/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aastha-0711/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/aastha-0711/DSA/tree/master/2047-find-a-peak-element-ii) |
@@ -289,6 +290,7 @@
 | [0139-word-break](https://github.com/aastha-0711/DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/aastha-0711/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aastha-0711/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/aastha-0711/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## String Matching
 |  |
 | ------- |
@@ -484,6 +486,7 @@
 | [0231-power-of-two](https://github.com/aastha-0711/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aastha-0711/DSA/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aastha-0711/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/aastha-0711/DSA/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aastha-0711/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
