@@ -1,23 +1,23 @@
 class Solution {
 public:
+    // Helper function to check palindrome recursively
+    bool isPalindromeHelper(const string& s, int left, int right) {
+        if (left >= right) return true;
+        if (s[left] != s[right]) return false;
+        return isPalindromeHelper(s, left + 1, right - 1);
+    }
+
     bool isPalindrome(string s) {
-        string ans;
-      
-        for(char c:s){
-            if(isalnum(c)){
-                ans+=tolower(c);
+        string cleaned;
+
+        // Clean the string: remove non-alphanumeric and convert to lowercase
+        for (char c : s) {
+            if (isalnum(c)) {
+                cleaned += tolower(c);
             }
         }
-        int left=0;
-        int right=ans.size()-1;
-while(left<right){
-    if(ans[left]!=ans[right]){
-return false;
-    }
-    left++;
-    right--;
 
-}
-return true;
+        // Call the recursive helper
+        return isPalindromeHelper(cleaned, 0, cleaned.size() - 1);
     }
 };
