@@ -1,34 +1,47 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
+    ListNode* reverseList(ListNode* head) {
+        ListNode* prev = nullptr;
+        while (head) {
+            ListNode* nextNode = head->next;
+            head->next = prev;
+            prev = head;
+            head = nextNode;
+        }
+        return prev;
+    }    
 public:
     bool isPalindrome(ListNode* head) {
-        vector<int> arr;
-
-        while (head != nullptr) {
-            arr.push_back(head->val);
-            head = head->next;
+        if(head == nullptr || head->next == nullptr){
+            return true;
+        }
+        
+        ListNode* slow = head;
+        ListNode* fast = head;
+        
+        // Move slow to middle
+        while(fast != nullptr && fast->next != nullptr){
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        int left = 0;
-        int right = arr.size() - 1;
+        // Reverse second half (start from slow)
+        ListNode* secondHalfStart = reverseList(slow);
+        ListNode* firstHalf = head;
+        ListNode* secondHalf = secondHalfStart;
 
-        while (left < right) {
-            if (arr[left] != arr[right]) {
-                return false;
+        bool isPalin = true;
+        while (secondHalf) {
+            if (firstHalf->val != secondHalf->val) {
+                isPalin = false;
+                break;
             }
-            left++;
-            right--;
+            firstHalf = firstHalf->next;
+            secondHalf = secondHalf->next;
         }
 
-        return true;        
+        // Optional: restore list
+        reverseList(secondHalfStart);
+
+        return isPalin;
     }
 };
