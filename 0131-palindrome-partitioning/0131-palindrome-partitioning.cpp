@@ -15,12 +15,12 @@ private:
             return;
         }
         // Explore all possible partitions
-        for (int end = start + 1; end <= s.length(); ++end) {
+        for (int end = start; end < s.length(); ++end) {
             // If the current substring is a palindrome, add it to the current path
-            if (isPalindrome(s, start, end - 1)) {
-                path.push_back(s.substr(start, end - start));
+            if (isPalindrome(s, start, end)) {
+                path.push_back(s.substr(start, end - start+1));
                 // Recur to find other partitions
-                backtrack(s, end, path, result);
+                backtrack(s, end+1, path, result);
                 // Backtrack to explore other partitions
                 path.pop_back();
             }
