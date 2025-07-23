@@ -1,30 +1,19 @@
 class Solution {
 public:
     bool isValid(string s) {
-    int l=s.length();
-        stack<char> temp;
-        for(int i=0;i<s.size();i++)
-        {
-if(temp.empty())
-{
-    temp.push(s[i]);
-}
-            else if((temp.top()=='(' and s[i]==')')
-                or(temp.top()=='{' and s[i]=='}')
-                    or (temp.top()=='[' and s[i]==']'))
-            {
-                temp.pop();
-            }
-            else{
-                temp.push(s[i]);
+        stack<char> stack;
+        unordered_map<char, char> mapping = {{'(', ')'}, {'[', ']'}, {'{', '}'}};
+
+        for (char c : s) {
+            if (mapping.find(c) != mapping.end()) {
+                stack.push(c);
+            } else if (!stack.empty() && mapping[stack.top()] == c) {
+                stack.pop();
+            } else {
+                return false;
             }
         }
-        if(temp.empty())
-        {
-            return true;
-        }return false;
+
+        return stack.empty();        
     }
-        
-        
-       
 };
