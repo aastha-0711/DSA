@@ -6,13 +6,13 @@ public:
         stack<int> st;  // Stack stores indices
 for(int i=2*n-1;i>=0;i--){
 int indx=i%n;
-while(!st.empty() && nums[st.top()]<=nums[indx]){
+while (!st.empty() && st.top() <= nums[indx]) {
     st.pop();
 }
-if(!st.empty()){
-    result[indx]=nums[st.top()];
+if (!st.empty()) {
+    result[indx] = st.top();
 }
-st.push(indx);
+st.push(nums[indx]);
 }
 return result;
     }
