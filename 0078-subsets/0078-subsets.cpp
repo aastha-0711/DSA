@@ -1,21 +1,18 @@
 class Solution {
+    private:
+    void subsets(vector<int>& nums, int i, vector<int>& current, vector<vector<int>>& ans){
+        ans.push_back(current);
+        for(int j=i;j<nums.size();j++){
+            current.push_back(nums[j]);
+            subsets(nums,j+1,current,ans);
+            current.pop_back();
+        }
+    }
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
-        int n = nums.size();
-        int totalSubsets = 1 << n;  // 2^n
-
-        for (int i = 0; i < totalSubsets; i++) {
-            vector<int> subset;
-            for (int j = 0; j < n; j++) {
-                // Check if j-th bit is set in i
-                if (i & (1 << j)) {
-                    subset.push_back(nums[j]);
-                }
-            }
-            ans.push_back(subset);
-        }
-
+      vector<vector<int>> ans;
+        vector<int> current;
+        subsets(nums,0,current,ans);
         return ans;
     }
 };
