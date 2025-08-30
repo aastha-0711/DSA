@@ -1,19 +1,19 @@
 class Solution {
 public:
-    int numberOfSubarrays(vector<int>& nums, int k) {
-        int res = 0, count = 0, left = 0;
-for (int r = 0; r < nums.size(); r++) {
-    if (nums[r] % 2) {
-        k--;
-        count=0; // each odd reduces k
+int atMost(vector<int>& nums, int k) {
+    int left = 0, res = 0;
+    for (int right = 0; right < nums.size(); right++) {
+        if (nums[right] % 2) k--;
+        while (k < 0) { // too many odds
+            if (nums[left] % 2) k++;
+            left++;
+        }
+        res += right - left + 1; // all subarrays ending at right
     }
-    while (k == 0) {  // valid window with exactly k odds
-        count++;              // count valid subarrays ending at r
-        k += (nums[left++] % 2);  // shrink window from left
-    }
-
-    res += count;  // add all valid subarrays ending at r
+    return res;
 }
-return res;
-    }
+
+int numberOfSubarrays(vector<int>& nums, int k) {
+    return atMost(nums, k) - atMost(nums, k - 1);
+}
 };
