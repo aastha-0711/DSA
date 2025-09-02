@@ -14,15 +14,16 @@ class Solution {
         if (!node) {
             return 0;
         }
+                int left = height(node->left, length);
+
         int right = height(node->right, length);
-        int left = height(node->left, length);
         length = max(length, right + left);
-        return 1 + max(right, left);        // Height of this node
+        return 1 + max(right, left);       
     }
 
 public:
     int diameterOfBinaryTree(TreeNode* root) {
-        int length = 0;  // ❗ Must initialize to 0
+        int length = 0;  
         height(root, length);
         return length;
     }
